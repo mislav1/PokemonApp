@@ -1,0 +1,26 @@
+.container{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.close-modal{
+    background-color: #0adad8;
+    border: none;
+    color: #fff!important;
+    margin: 20px;
+    border-radius: 10px;
+    height: 40px;
+    font-weight: 700;
+    width: 90px;
+}
+
+.scrollable-div{
+    margin: 15px;
+    height: 50%;
+    overflow-y:auto;
+    width: 60%;
+}

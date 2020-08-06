@@ -1,0 +1,12 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+}
+.grid-container{
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

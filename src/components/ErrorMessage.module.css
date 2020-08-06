@@ -1,0 +1,19 @@
+.container{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.message{
+    background-color: #0adad8;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+}
+.link{
+    color: white;
+}

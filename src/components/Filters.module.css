@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    margin: 20px;
+}
+
+.all-pokemons{
+    background-color: #0adad8;
+    border: none;
+    color: #fff!important;
+    margin: 20px;
+    border-radius: 10px;
+    height: 40px;
+    font-weight: 700;
+    width: 150px;
+}
+
+.input{
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.input > input{
+    height: 30px;
+    margin-left: 20px;
+    width: 250px;
+    border: 2px solid #0adad8;
+    padding-left: 5px;
+}
+
+.input > img{
+    height: 30px;
+    background-color: #0adad8;
+    padding: 3px;
+    cursor: pointer;
+}
